@@ -3,7 +3,7 @@
 1. Compile using:  
    `gcc -o main main.c -lwayland-client -lm`
 
-2. Run the program:  
+2. Run sway first then the program:  
    `./main`
 
 3. Commands:
